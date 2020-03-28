@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "react-router-dom"
 import { Tab, Image, Card, Tabs, ListGroupItem, ListGroup } from "react-bootstrap"
 
 const BeerInfo = (beer) => {

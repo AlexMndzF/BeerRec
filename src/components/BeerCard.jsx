@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "react-router-dom"
-import { Card, ListGroup, ListGroupItem, Button } from "react-bootstrap"
+import { Card, ListGroup, ListGroupItem } from "react-bootstrap"
 const BeerCard = (props) => {
     return (
         <Card style={{ width: '18rem',margin:'15px'}}>

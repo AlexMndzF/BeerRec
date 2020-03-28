@@ -1,5 +1,4 @@
 import React,{Component} from "react"
-import {Link} from "react-router-dom"
 import service from "../services/beers"
 import BeerCard from "./BeerCard"
 
